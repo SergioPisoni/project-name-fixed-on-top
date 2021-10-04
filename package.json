@@ -1,0 +1,18 @@
+{
+  "name": "project-name-fixed-on-top",
+  "main": "./lib/project-name-fixed-on-top",
+  "version": "0.0.0",
+  "description": "Have always the name of the project clearly visible",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "project-name-fixed-on-top:toggle"
+  },
+  "repository": "https://github.com/SergioPisoni/project-name-fixed-on-top",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
