@@ -4,9 +4,6 @@
   "version": "0.2.0",
   "description": "Have always the name of the project clearly visible",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "project-name-fixed-on-top:toggle"
-  },
   "repository": "https://github.com/SergioPisoni/project-name-fixed-on-top",
   "license": "MIT",
   "engines": {
