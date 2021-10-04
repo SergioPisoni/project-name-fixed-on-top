@@ -1,7 +1,7 @@
 {
   "name": "project-name-fixed-on-top",
   "main": "./lib/project-name-fixed-on-top",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Have always the name of the project clearly visible",
   "keywords": [],
   "activationCommands": {
