@@ -4,7 +4,7 @@ Tired of scrolling the tree view all the way up to see what project you're worki
 Have always the name of the project clearly visible.
 
 
-![A screenshot of my package](/assets/screencasts/screencast-1.gif)
+![A screenshot of my package](https://github.com/SergioPisoni/project-name-fixed-on-top/blob/master/assets/screencasts/screencast-1.gif?raw=true)
 
 
 **NOTE**:
