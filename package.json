@@ -1,10 +1,9 @@
 {
   "name": "project-name-fixed-on-top",
   "main": "./lib/project-name-fixed-on-top",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Have always the name of the project clearly visible",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "project-name-fixed-on-top:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
